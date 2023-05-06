@@ -1,0 +1,101 @@
+.appNamePx{
+    font-size: 29px !important;
+}
+
+.width65 {
+    width: 65px;
+}
+.width230 {
+    width: 200px;
+}
+.widthMax {
+    max-width: 100% !important;
+}
+
+.height40 {
+    height: 40px;
+}
+
+.height41 {
+    height: 41px;
+}
+
+.height60 {
+    height: 60px;
+
+}
+
+.padding0 {
+    padding: 0 !important;
+}
+
+.paddingLeft{
+    padding-left: 10px;
+}
+
+.overflowHidden {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.middle {
+margin:auto 0;
+}
+
+.wordColorBlack {
+    color:  rgb(96 68 68 / 90%) !important;
+}
+
+.wordColorGlay {
+    color: dimgray;
+}
+
+.searchBtnColor {
+    background: white;
+}
+
+.searchBtnColor:hover {
+    background: #dee2e6;
+}
+
+.borderRight {
+border-width:0px 0.5px 0px 0px;
+}
+
+.borderNone{
+    border:none;
+}
+
+.borderColor {
+    border-color: lightgray;
+}
+
+.fontsize-revert{
+font-size:;
+}
+
+.paddingTop1{
+padding-top: 1px;
+}
+
+justify{
+    justify-content: center;
+}
+
+.footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 15px;
+    color: #999;
+    background: #fff;
+    border-top: 1px solid #e5e7eb;
+}
+
+.marginHead{
+    margin-left: 10px;
+}
+
+.basis{
+        margin-right: 180px !important;
+}
